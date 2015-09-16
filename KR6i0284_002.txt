@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:15:08.525347
+#+DATE: 2015-08-30 20:15:10.210653
 #+TITLE: 力莊嚴三昧經
 #+PROPERTY: CBETA_ID T15n0647
 #+PROPERTY: ID KR6i0284
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 647
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0284_T_000-0711a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0284_T_002-0715b> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《力莊嚴三昧經》卷中¶
+《力莊嚴三昧經》卷中¶
 ¶
 隋天竺三藏那連提耶舍譯¶
 
