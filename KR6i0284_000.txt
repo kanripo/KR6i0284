@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 力莊嚴三昧經
+#+DATE: 2015-08-30 20:15:08.774725
+#+PROPERTY: JUAN 0
